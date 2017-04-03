@@ -1,0 +1,16 @@
+#ファイル
+.DS_Store
+config.rb
+wp-config.php
+
+#ディレクトリ
+/tmp
+/.sass-cache
+/sass
+/dest
+/node_modules
+/src
+/img_org
+
+#ワイルドカード
+*.log
